@@ -1,6 +1,6 @@
 
 # Feature Selection Report
-Fecha: 2025-11-09 19:54:01
+Fecha: 2025-11-10 19:04:52
 
 - Input: `../inputs/dataset_v2_with_fe.csv`
 - Filtrado C1 (missing > 1.00%): 0
@@ -12,4 +12,4 @@ Fecha: 2025-11-09 19:54:01
 
 Parámetros:
 - N_SPLITS=5
-- TARGET=merval_apertura_+1
+- TARGET=merval_apertura_+2
