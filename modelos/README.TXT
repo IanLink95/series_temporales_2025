@@ -6,4 +6,4 @@ FE: lags 1 y 5, promedio movil de 3 dias y variacion porcentual diaria.
 
 Modelos v3: predecir precio de apertura en t+1 usando las variables de dataset_v2_fs_top60.csv
 
-Modelos v4: precedir preciio fr sprtyuts en t+2 usando las variables de dataset_v2_fs_top60_+2.csv
+Modelos v4: precedir preciio de apertura en t+2 usando las variables de dataset_v2_fs_top60_+2.csv
